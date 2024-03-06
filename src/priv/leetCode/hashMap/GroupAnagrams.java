@@ -6,6 +6,8 @@ import java.util.*;
     Given an array of strings strs, group the anagrams together
     Input: strs = ["eat","tea","tan","ate","nat","bat"]
     Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
+
+    LeetCode#49: https://leetcode.com/problems/group-anagrams/?envType=study-plan-v2&envId=top-interview-150
  */
 public class GroupAnagrams {
     public static void main(String[] args) {
